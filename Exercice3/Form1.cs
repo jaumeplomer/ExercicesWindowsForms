@@ -41,5 +41,10 @@ namespace Exercice3
         {
 
         }
+
+        private void operand1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

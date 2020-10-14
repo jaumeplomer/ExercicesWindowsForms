@@ -91,7 +91,7 @@
             this.operand1.Name = "operand1";
             this.operand1.Size = new System.Drawing.Size(119, 22);
             this.operand1.TabIndex = 5;
-    
+            this.operand1.TextChanged += new System.EventHandler(this.operand1_TextChanged_1);
             // 
             // operand2
             // 
